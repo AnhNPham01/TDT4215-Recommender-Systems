@@ -1,0 +1,3 @@
+# Ignore mindsmall datasets - dev and train
+MINDsmall_train/
+MINDsmall_dev/
