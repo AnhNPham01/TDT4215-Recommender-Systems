@@ -3,8 +3,34 @@
 
 ## enkel plan så langt
 
-**Baseline** - finne mest populære artikkelen: på tvers av hele datasettet, men også innen en tidsperiode (måned, uke dag)
+**Baseline** 
+- finne mest populære artikkelen: på tvers av hele datasettet, men også innen en tidsperiode dag
 
-**Collaborative filtering** - finne ut av det
+- Ring buffer
 
-**Content-based** - Bag ow word, tf-idf på headlines og abstracts. kan web-scrape for å finne text også (evt bilde-descriptions)
+**Collaborative filtering** 
+- finne ut av det
+
+**Content-based** 
+- Bag of word, tf-idf på headlines og abstracts, BERT
+
+
+## Analysis
+
+####  Title length and abstract length distribution :heavy_check_mark:
+Finished, can be pasted here
+
+
+### Category distribution :heavy_check_mark:
+Finished, can be pasted here
+
+###  Click per article and through rate 
+done and almost done
+
+### Impressions over time
+
+started but needs some revision. TODO
+
+### Embeddings
+
+TODO
