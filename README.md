@@ -34,3 +34,7 @@ started but needs some revision. TODO
 ### Embeddings
 
 TODO
+
+### TF-IDF
+
+hvis vi skal implementere TF-IDF eller noe lignende burde vi lemmatize, tokenize, fjerne stoppordord, osv. (basically det vi gjorde i IR) sånn at vi får bedre match på alle ordene
