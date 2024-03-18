@@ -36,6 +36,11 @@ started but needs some revision. TODO
 TODO
 
 
+### TF-IDF
+
+Hvis vi skal implementere TF-IDF eller noe lignende burde vi lemmatize, tokenize, fjerne stoppordord, osv. (basically det vi gjorde i IR) sånn at vi får bedre match på alle ordene
+
+
 ## Reccomenders
 
 
@@ -44,3 +49,4 @@ TODO
 ### Sliding window for splitting data
 We neew some deterministic way of splitting data into training and testing data so that we can begin to evaluate our reccomenders in some comparable way.
 See [issue #10](https://github.com/AnhNPham01/TDT4215-Recommender-Systems/issues/10)
+
