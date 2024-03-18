@@ -34,3 +34,13 @@ started but needs some revision. TODO
 ### Embeddings
 
 TODO
+
+
+## Reccomenders
+
+
+## Evaluation
+
+### Sliding window for splitting data
+We neew some deterministic way of splitting data into training and testing data so that we can begin to evaluate our reccomenders in some comparable way.
+See [issue #10](https://github.com/AnhNPham01/TDT4215-Recommender-Systems/issues/10)
